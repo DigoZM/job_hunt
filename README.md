@@ -16,8 +16,8 @@ This project is a job search application that fetches job postings, processes th
 ### 1. Clone the Repository
 To get started, clone this repository to your local machine:
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/DigoZM/job_hunt.git
+cd job_hunt
 ```
 
 ### 2. Create and Activate a Virtual Environment
@@ -79,7 +79,7 @@ The Streamlit app reads the processed job data and displays it in an interactive
 ## Running the Application
 To start the Streamlit app, run the following command:
 ```bash
-    streamlit run streamlit_app.py
+streamlit run streamlit_app.py
 ```
 
 This will launch the app in your default web browser. You can interact with the app to view and filter job postings.
